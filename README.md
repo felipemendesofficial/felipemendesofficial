@@ -33,8 +33,8 @@ Desenvolvedor Front-end focado em criar soluções práticas, responsivas e com 
 
 ## 📊 GitHub Stats
 
-![Felipe GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula)
+![Felipe GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemendesofficial&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemendesofficial&layout=compact&theme=dracula)
 
 > "Busque a solução."
 
