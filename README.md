@@ -33,9 +33,14 @@ Desenvolvedor Front-end focado em criar soluções práticas, responsivas e com 
 
 ## 📊 GitHub Stats
 
-![Felipe GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemendesofficial&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemendesofficial&layout=compact&theme=dracula)
+
+![Felipe GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemendesofficial&show_icons=true&theme=dracula)
 
 > "Busque a solução."
 
 👊 Vem comigo nessa jornada de evolução constante!
+
+
+![Visualizações de Perfil](https://komarev.com/ghpvc/?username=elipemendesofficial&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=0e75b6&style=flat)
+
